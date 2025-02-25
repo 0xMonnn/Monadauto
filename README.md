@@ -5,10 +5,10 @@ https://t.me/AirdropSyncReborn
 
 ** HOW TO USE
 ```bash
-   git clone https://github.com/0xMonnn/Monadauto.git
+git clone https://github.com/0xMonnn/Monadauto.git
    ```
   ```bash
-   cd Monadauto
+cd Monadauto
  ```
  ```bash
 npm install
