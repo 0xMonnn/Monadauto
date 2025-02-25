@@ -10,19 +10,16 @@ https://t.me/AirdropSyncReborn
   ```bash
    cd Monadauto
  ```
-```bash
-   cd Monadauto
- ```
  ```bash
-   npm install
+npm install
  ```
 
  *** FILL detail in .env
  ```bash
-   nano .env
+nano .env
  ```
 
 *** RUN
 ```bash
-   node index.js
+node index.js
  ```
